@@ -16,7 +16,7 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 *this is the description of the tool*
 
 |col1|col2|
----
+|---
 |rwo1|aq|
 ----|---|
 |row2|aq|
